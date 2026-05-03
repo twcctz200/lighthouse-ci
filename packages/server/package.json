@@ -22,22 +22,22 @@
   "dependencies": {
     "@lhci/utils": "0.1.0",
     "bluebird": "^3.7.2",
-    "body-parser": "^1.18.3",
+    "body-parser": "^2.2.2",
     "compression": "^1.7.4",
     "cron": "^1.8.2",
     "dayjs": "^1.8.28",
     "debug": "^4.3.1",
-    "express": "^4.16.4",
+    "express": "^5.2.1",
     "express-basic-auth": "^1.2.0",
     "morgan": "^1.9.1",
-    "sequelize": "^4.44.3",
+    "sequelize": "^6.37.8",
     "umzug": "^2.2.0",
-    "uuid": "^8.3.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "clsx": "^1.0.4",
     "d3": "^5.15.0",
-    "plotly.js": "^1.48.3",
+    "plotly.js": "^3.5.1",
     "preact": "^10.0.1",
     "preact-async-route": "^2.2.1",
     "preact-router": "^3.1.0",
